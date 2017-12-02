@@ -1,0 +1,9 @@
+Camera : 8 MP
+
+Ram : 2GB
+
+Memory : 4GB
+
+OS : Android
+
+Version : 4.4 kitkat 
